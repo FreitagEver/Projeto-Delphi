@@ -1,5 +1,5 @@
 # Projeto-Delphi
-Utilizado base de dados firebird 2.5
+Utilizado base de dados firebird 2.5. Deixa base no repositorio disco local C:
 
 # Comando pra criar base de dados e Generator
 create table pessoa(
