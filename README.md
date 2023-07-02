@@ -7,7 +7,7 @@ create table pessoa(
     cod_pessoa int primary key,
     nome_pessoa varchar(60) not null,
     cpf_cnpj_pessoa varchar(19) not null,
-    dat_pessoa date not null,
+    dat_pessoa date,
     end_pessoa varchar(80),
     bairro_pessoa varchar (25),
     cid_pessoa varchar(25),
@@ -19,4 +19,4 @@ create table pessoa(
     sit_pessoa int
 )
 
-create sequence GEN_PESSOA
+create sequence COD_PESSOA
