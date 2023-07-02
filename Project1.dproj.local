@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/06/28 13:12:39.000.439,=C:\Users\Everton\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/28 13:13:00.000.310,=C:\Users\Everton\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/06/28 13:15:33.000.186,C:\Users\Everton\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Everton\Documents\Embarcadero\ProjetoMicrosys\Frm_principal.pas</Transaction>
+    <Transaction>2023/06/28 13:15:33.000.186,C:\Users\Everton\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Everton\Documents\Embarcadero\ProjetoMicrosys\Frm_principal.dfm</Transaction>
+    <Transaction>2023/06/28 13:15:42.000.573,C:\Users\Everton\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\Everton\Documents\Embarcadero\ProjetoMicrosys\MD_conexao.dfm</Transaction>
+    <Transaction>2023/06/28 13:15:42.000.573,C:\Users\Everton\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\Everton\Documents\Embarcadero\ProjetoMicrosys\MD_conexao.pas</Transaction>
+    <Transaction>2023/06/28 13:15:47.000.517,C:\Users\Everton\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Everton\Documents\Embarcadero\ProjetoMicrosys\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
